@@ -83,7 +83,7 @@
         background-color: var(--dark-bg);
         background-image:
           linear-gradient(rgba(15, 23, 43, 0.9), rgba(15, 23, 43, 0.9)),
-          url("./images/bg-hero.jpg");
+          url("../assets/images/bg-hero.jpg");
         background-size: cover;
         background-position: center;
         height: 100vh;
