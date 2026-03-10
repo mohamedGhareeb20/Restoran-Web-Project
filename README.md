@@ -9,10 +9,7 @@ A beautifully designed, fully responsive restaurant website template. This proje
 
 ---
 
-## 📸 App Preview
-*(Note to team: Take a screenshot of the live site, save it as `preview.png` in the `assets/images/` folder, and it will appear here!)*
 
-![Restoran Preview](./assets/images/preview.png)
 
 ---
 
