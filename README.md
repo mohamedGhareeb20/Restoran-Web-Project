@@ -9,7 +9,15 @@ A beautifully designed, fully responsive restaurant website template. This proje
 
 ---
 
+## 📸 App Preview
 
+<details>
+  <summary><b>👉 Click here to view the full website design</b></summary>
+  <br>
+  <div align="center">
+    <img src="./assets/images/preview.png" alt="Restoran Full Page Preview" width="800" />
+  </div>
+</details>
 
 ---
 
