@@ -46,3 +46,16 @@ Restoran-Web-Project/
 │
 ├── index.html           # Main HTML structure
 └── README.md            # Project documentation
+
+## 💻 How to Run
+
+1. **Clone the repository:**
+```bash
+   git clone https://github.com/mohamedGhareeb20/Restoran-Web-Project.git
+```
+
+2. **Open the project:**
+```bash
+  cd Restoran-Web-Project
+  code .
+```
