@@ -47,7 +47,7 @@ Restoran-Web-Project/
 ├── index.html           # Main HTML structure
 └── README.md            # Project documentation
 
----
+```
 
 ## 💻 How to Run
 
